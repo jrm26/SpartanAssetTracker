@@ -1,0 +1,7 @@
+#Mon Mar 06 11:36:38 EST 2017
+base.0=C\:\\Android Development\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8ba8921c2d83aabd1b95e5b78816dc186f35f6f1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Android Development\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ec30a4cd85e828b84bb2c7357ff10b65864a1b9b\\classes.dex
+base.1=C\:\\Android Development\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ec30a4cd85e828b84bb2c7357ff10b65864a1b9b
+file.0=C\:\\Android Development\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8ba8921c2d83aabd1b95e5b78816dc186f35f6f1\\classes.dex
